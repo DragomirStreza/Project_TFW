@@ -1,0 +1,26 @@
+11:55:30.878 [main] INFO  resources.Base - Login_TFW::Navigated to TFW home page
+11:55:31.146 [main] INFO  resources.Base - Login_TFW::Entered Qnummer und TssPasswort
+11:55:31.317 [main] INFO  resources.Base - Login_TFW::Logged in TFW
+11:56:19.380 [main] INFO  resources.Base - Display_Importeurs::Initialized driver
+11:56:20.094 [main] INFO  resources.Base - Display_Importeurs::Accessed TFW home page
+11:56:20.776 [main] INFO  resources.Base - Display_Importeurs::Logged in
+11:58:04.552 [main] INFO  resources.Base - Login_TFW::Driver is initialized
+11:58:05.488 [main] INFO  resources.Base - Login_TFW::Navigated to TFW home page
+11:58:05.742 [main] INFO  resources.Base - Login_TFW::Entered Qnummer und TssPasswort
+11:58:16.345 [main] INFO  resources.Base - Login_TFW::Logged in TFW
+11:58:18.789 [main] INFO  resources.Base - Reporting::Driver is initialized
+11:58:19.596 [main] INFO  resources.Base - Reporting::Navigated to TFW home page
+11:58:30.439 [main] INFO  resources.Base - Reporting::Logged in
+11:58:30.839 [main] INFO  resources.Base - Reporting::Entered Reporting Module
+11:58:31.110 [main] INFO  resources.Base - Reporting::Selected Reporting Option
+11:58:31.433 [main] INFO  resources.Base - Reporting::Selected Partner/Region Option
+11:58:31.553 [main] INFO  resources.Base - Reporting::Results displayed
+11:58:34.305 [main] INFO  resources.Base - Display_Importeurs::Initialized driver
+11:58:35.028 [main] INFO  resources.Base - Display_Importeurs::Accessed TFW home page
+11:58:35.563 [main] INFO  resources.Base - Display_Importeurs::Logged in
+12:32:43.600 [main] INFO  resources.Base - Login_TFW::Driver is initialized
+12:32:44.929 [main] INFO  resources.Base - Login_TFW::Navigated to TFW home page
+12:32:45.179 [main] INFO  resources.Base - Login_TFW::Entered Qnummer und TssPasswort
+12:32:54.253 [main] INFO  resources.Base - Login_TFW::Logged in TFW
+12:32:56.941 [main] INFO  resources.Base - Reporting::Driver is initialized
+12:32:57.930 [main] INFO  resources.Base - Reporting::Navigated to TFW home page

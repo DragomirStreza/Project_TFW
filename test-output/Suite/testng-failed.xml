@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="TFW_Test.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="TFW_Test.Display_Importeurs(failed)">
+    <classes>
+      <class name="TFW_Test.Display_Importeurs">
+        <methods>
+          <include name="teardown"/>
+          <include name="initialize"/>
+          <include name="LoginTFW" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- TFW_Test.Display_Importeurs -->
+    </classes>
+  </test> <!-- TFW_Test.Display_Importeurs(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43370" started-at="2019-04-26T09:32:40Z" finished-at="2019-04-26T09:33:24Z">
+    <groups>
+    </groups>
+    <test name="TFW_Test.Login_TFW" duration-ms="13809" started-at="2019-04-26T09:32:40Z" finished-at="2019-04-26T09:32:54Z">
+      <class name="TFW_Test.Login_TFW">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TFW_Test.Login_TFW@459e9125]" name="initialize" is-config="true" duration-ms="4265" started-at="2019-04-26T09:32:40Z" finished-at="2019-04-26T09:32:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="LoginTFW(java.lang.String, java.lang.String)[pri:0, instance:TFW_Test.Login_TFW@459e9125]" name="LoginTFW" duration-ms="9298" started-at="2019-04-26T09:32:44Z" data-provider="getData" finished-at="2019-04-26T09:32:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qxv5565]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edcrfv13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTFW -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TFW_Test.Login_TFW@459e9125]" name="teardown" is-config="true" duration-ms="212" started-at="2019-04-26T09:32:54Z" finished-at="2019-04-26T09:32:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TFW_Test.Login_TFW -->
+    </test> <!-- TFW_Test.Login_TFW -->
+    <test name="TFW_Test.Reporting" duration-ms="14692" started-at="2019-04-26T09:32:54Z" finished-at="2019-04-26T09:33:09Z">
+      <class name="TFW_Test.Reporting">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TFW_Test.Reporting@30c15d8b]" name="initialize" is-config="true" duration-ms="3428" started-at="2019-04-26T09:32:54Z" finished-at="2019-04-26T09:32:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Reporting(java.lang.String, java.lang.String)[pri:0, instance:TFW_Test.Reporting@30c15d8b]" name="Reporting" duration-ms="11142" started-at="2019-04-26T09:32:57Z" data-provider="getData" finished-at="2019-04-26T09:33:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qxv5565]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edcrfv13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reporting -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TFW_Test.Reporting@30c15d8b]" name="teardown" is-config="true" duration-ms="114" started-at="2019-04-26T09:33:09Z" finished-at="2019-04-26T09:33:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TFW_Test.Reporting -->
+    </test> <!-- TFW_Test.Reporting -->
+    <test name="TFW_Test.Display_Importeurs" duration-ms="14812" started-at="2019-04-26T09:33:09Z" finished-at="2019-04-26T09:33:24Z">
+      <class name="TFW_Test.Display_Importeurs">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TFW_Test.Display_Importeurs@28701274]" name="initialize" is-config="true" duration-ms="3421" started-at="2019-04-26T09:33:09Z" finished-at="2019-04-26T09:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="LoginTFW(java.lang.String, java.lang.String)[pri:0, instance:TFW_Test.Display_Importeurs@28701274]" name="LoginTFW" duration-ms="11175" started-at="2019-04-26T09:33:12Z" data-provider="getData" finished-at="2019-04-26T09:33:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qxv5565]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edcrfv13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTFW -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TFW_Test.Display_Importeurs@28701274]" name="teardown" is-config="true" duration-ms="211" started-at="2019-04-26T09:33:23Z" finished-at="2019-04-26T09:33:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TFW_Test.Display_Importeurs -->
+    </test> <!-- TFW_Test.Display_Importeurs -->
+  </suite> <!-- Suite -->
+</testng-results>

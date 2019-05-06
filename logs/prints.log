@@ -1,0 +1,26 @@
+12:33:07.574 [main] INFO  resources.Base - Reporting::Logged in
+12:33:08.108 [main] INFO  resources.Base - Reporting::Entered Reporting Module
+12:33:08.521 [main] INFO  resources.Base - Reporting::Selected Reporting Option
+12:33:08.938 [main] INFO  resources.Base - Reporting::Selected Partner/Region Option
+12:33:09.072 [main] INFO  resources.Base - Reporting::Results displayed
+12:33:11.590 [main] INFO  resources.Base - Display_Importeurs::Initialized driver
+12:33:12.641 [main] INFO  resources.Base - Display_Importeurs::Accessed TFW home page
+12:33:22.859 [main] INFO  resources.Base - Display_Importeurs::Logged in
+12:33:23.035 [main] INFO  resources.Base - Display_Importeurs::Selected type importeur
+12:33:23.817 [main] INFO  resources.Base - Display_Importeurs::Importeur results displayed
+12:46:22.337 [main] INFO  resources.Base - Login_TFW::Driver is initialized
+12:46:23.197 [main] INFO  resources.Base - Login_TFW::Navigated to TFW home page
+12:46:23.598 [main] INFO  resources.Base - Login_TFW::Entered Qnummer und TssPasswort
+12:46:23.682 [main] INFO  resources.Base - Login_TFW::Logged in TFW
+12:46:26.501 [main] INFO  resources.Base - Reporting::Driver is initialized
+12:46:27.289 [main] INFO  resources.Base - Reporting::Navigated to TFW home page
+12:46:37.343 [main] INFO  resources.Base - Reporting::Logged in
+12:46:37.811 [main] INFO  resources.Base - Reporting::Entered Reporting Module
+12:46:38.164 [main] INFO  resources.Base - Reporting::Selected Reporting Option
+12:46:38.671 [main] INFO  resources.Base - Reporting::Selected Partner/Region Option
+12:46:38.824 [main] INFO  resources.Base - Reporting::Results displayed
+12:46:41.659 [main] INFO  resources.Base - Display_Importeurs::Initialized driver
+12:46:42.431 [main] INFO  resources.Base - Display_Importeurs::Accessed TFW home page
+12:46:53.753 [main] INFO  resources.Base - Display_Importeurs::Logged in
+12:46:54.266 [main] INFO  resources.Base - Display_Importeurs::Selected type importeur
+12:46:55.008 [main] INFO  resources.Base - Display_Importeurs::Importeur results displayed
